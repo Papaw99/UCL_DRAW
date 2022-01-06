@@ -1,3 +1,4 @@
+import sqlite3
 
 class Team:
     def __init__(self, name, league, group):
@@ -9,10 +10,10 @@ class Team:
         return self.name
     
     def getLeague (self):
-        return self.name
+        return self.league
 
     def getGroup (self):
-        return self.name    
+        return self.group    
 
     def setName (self, name):
         self.name = name
@@ -22,3 +23,9 @@ class Team:
 
     def setGroup (self, group):
         self.group = group 
+    
+    def addTeam (self, team):
+        name = team.getName()
+        league = team.getLeague()
+        group = team.getGroup()
+
