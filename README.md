@@ -11,3 +11,6 @@ after watching their software melt down, I thought "You know what? Why not have 
 ## Components
 
 TBA
+
+## Project Stats
+To be developed soon
