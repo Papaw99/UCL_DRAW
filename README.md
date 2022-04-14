@@ -12,5 +12,9 @@ after watching their software melt down, I thought "You know what? Why not have 
 
 TBA
 
-## Project Stats
+## Instructions
+
+Instructions to be added here
+
+## Project Status
 To be developed soon
